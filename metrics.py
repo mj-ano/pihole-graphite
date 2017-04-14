@@ -1,13 +1,12 @@
 #! /usr/bin/python
 
-
 import requests
 import socket
 import time
 import platform
 
-HOSTNAME = "a6f130f9-3b08-4e40-886b-90dab9a41368.pi-hole"
-CARBON_SERVER = "d3024505.carbon.hostedgraphite.com"
+HOSTNAME = ""
+CARBON_SERVER = ""
 CARBON_PORT = 2003
 DELAY = 60 # seconds
 
